@@ -1,6 +1,6 @@
 ## Portfolio
 
-###CyberSecurity
+### CyberSecurity
 <details open>
   <summary>Professional Statement</summary>
   An accomplished, experienced & technology-enthusiast IT Project Manager highly interested in cyber security; 
@@ -10,4 +10,4 @@
   <summary>Résumé</summary>
 </details>
 
-###IT Project Management
+### IT Project Management
