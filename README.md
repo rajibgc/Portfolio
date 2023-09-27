@@ -9,5 +9,17 @@
 <details>
   <summary>Résumé</summary>
 </details>
+<details>
+  <summary>Education</summary>
+</details>
+<details>
+  <summary>Portfolio projects & documents</summary>
+</details>
+<details>
+  <summary>CyberSecurity tools</summary>
+</details>
+<details>
+  <summary>Programming</summary>
+</details>
 
 ### IT Project Management
