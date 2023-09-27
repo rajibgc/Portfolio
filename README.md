@@ -1,16 +1,15 @@
 # Portfolio
-A Portfolio of Rajib GanChaudhuri
+## A Portfolio of Rajib GanChaudhuri
 
 <details open>
-  <summary>CyberSecurity</summary>
+  <summary>**CyberSecurity**</summary>
   <details open>
     <summary>Professional Statement</summary>
     An accomplished, experienced & technology-enthusiast IT Project Manager highly interested in cyber security; 
-    Highly analytical, self-motivated, dependable; driven by strong determination to defend organisations & people against crime & violence in cyberspace, and ensuring continually and proactively meeting & exceeding  compliance requirements.
-    
+    highly analytical, self-motivated, dependable; driven by strong determination to defend organisations & people against crime & violence in cyberspace, and ensuring continually and proactively meeting & exceeding  compliance requirements.
   </details>
 </details>
 
 <details>
-  <summary>IT Project Management</summary>
+  <summary>**IT Project Management**</summary>
 </details>
