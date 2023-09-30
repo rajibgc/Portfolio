@@ -29,12 +29,12 @@
 <details>
   <summary>CyberSecurity tools</summary>
   
-  SIEM tools: for collection, analysis & alerting, but not for responding to contain a threat when an incident occurs.  
+  SIEM tools (Security Information & Event Mgt): for collection, analysis & alerting, but not for responding to contain a threat when an incident occurs.  
      Splunk Enterprise (for internally hosted) | Splunk Cloud (for cloud hosted - managed by Splunk themselves/SaaS)
      Chronicle (by Google)
      Azure Monitor
   
-  SOAR tools: for automated response (typically containment measures when an incident occurs)
+  SOAR tools (Security Orchestration, Automation, and Response): for automated response (typically containment measures when an incident occurs)
 
   IDS (Intrusion Detection System): Could be Host-based or Network-based. Examples are: Suricata, SolarWinds, Splunk, AlienVault OSSIM, Snort, Zeek, IBM QRadar, Security Onion,Open WIPS-NG, Sagan.
 
