@@ -28,6 +28,21 @@
 </details>
 <details>
   <summary>CyberSecurity tools</summary>
+  
+  SIEM tools: for collection, analysis & alerting, but not for responding to contain a threat when an incident occurs.  
+     Splunk Enterprise (for internally hosted) | Splunk Cloud (for cloud hosted - managed by Splunk themselves/SaaS)
+     Chronicle (by Google)
+     Azure Monitor
+  
+  SOAR tools: for automated response (typically containment measures when an incident occurs)
+
+  IDS (Intrusion Detection System): Could be Host-based or Network-based. Examples are: Suricata, SolarWinds, Splunk, AlienVault OSSIM, Snort, Zeek, IBM QRadar, Security Onion,Open WIPS-NG, Sagan.
+
+  How is IDS different from SIEM? IDS covers the Security Event Management part of SIEM - i.e. focussed only on examining live network traffic (but not on saved log data).
+  
+  IPS (Intrusion Prevention System): Examples are: Cisco Secure Firewall, TrendMicro TippingPoint, McAfee, Trellix, AlertLogic MDR, SecurityOnion, Palo Alto Networks Threat Prevention, Suricata, Snort, OSSEC, Zeek, Sagan.
+  
+  
 </details>
 <details>
   <summary>Programming</summary>
