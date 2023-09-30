@@ -16,7 +16,7 @@
   <summary>Portfolio projects & documents</summary>
   Sample Security Audit (as part of "Google Cybersecurity Professional Certificate):
   
-     Input 1: "Botium Toys_ Scope, goals, and risk assessment report" : 
+     Input 1: "Botium Toys - Scope, goals, and risk assessment report" : 
          https://docs.google.com/document/d/e/2PACX-1vQ1a_TZUjuzF5ApgccACKUdTGJf38DWFfIpcJ92H0_TyRyMPB1K9tq9wiIkFZlN2put2DfnkIF93c_8/pub
   
      Input 2: "Control categories"
