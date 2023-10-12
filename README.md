@@ -18,11 +18,11 @@
 From **Google Cybersecurity Professional Certificate** 
 
   **a. Security Audit:** 
-       Goal: [Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/rajibgc/Portfolio/files/12883531/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf) | 
-       Output:  [Controls and compliance checklist.pdf](https://github.com/rajibgc/Portfolio/files/12883535/Controls.and.compliance.checklist.pdf)
+       [Goal](https://github.com/rajibgc/Portfolio/files/12883531/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf) | 
+       [Risk Assessment & Compliance Report](https://github.com/rajibgc/Portfolio/files/12883535/Controls.and.compliance.checklist.pdf)
 
   **b. Linux file permissions**
-       [File permissions in Linux.pdf](https://github.com/rajibgc/Portfolio/files/12883416/File.permissions.in.Linux.pdf)
+       [Setting file/directory permissions](https://github.com/rajibgc/Portfolio/files/12883416/File.permissions.in.Linux.pdf)
 
        
   
