@@ -15,20 +15,18 @@
 <details>
   <summary>Portfolio projects & documents</summary>
 
-  As part of "Google Cybersecurity Professional Certificate", the following portfolio projects have been completed. 
-  =====================================================================================================
-  a. Security Audit:
+**As part of "Google Cybersecurity Professional Certificate", the following portfolio projects have been completed.** 
+  
+  **a. Security Audit:** 
        Output: Security Audit (using Controls and compliance checklist) :  
          https://docs.google.com/document/d/e/2PACX-1vSUPiRNAN6sA9OGi6R3jO4mK-DPhgcVA9ZBTgeiDUjYnHaRSSYXIsHc43m63BRD73mtXyGt9_dTJEGK/pub
        Input: "Botium Toys - Scope, goals, and risk assessment report" : 
          https://docs.google.com/document/d/e/2PACX-1vQ1a_TZUjuzF5ApgccACKUdTGJf38DWFfIpcJ92H0_TyRyMPB1K9tq9wiIkFZlN2put2DfnkIF93c_8/pub
-  =======
-  b. Linux file permissions
+  
+  **b. Linux file permissions**
        Output: https://docs.google.com/document/d/1Y-5G2_AOljPkydyK9-OVRv-N6UcXZBKlQsl4CvsOiLw/edit#heading=h.adnh333husy
        Input: Instructions https://docs.google.com/document/d/17JagcsCJVA30szN-5BfVhXsT6URhOfO9VPwO9bFlWCI/edit?usp=sharing
-  =======
-
-  =====================================================================================================
+  
   
 </details>
 <details>
