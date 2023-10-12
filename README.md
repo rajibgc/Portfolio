@@ -15,7 +15,7 @@
 <details>
   <summary>Portfolio projects & documents</summary>
 
-**As part of "Google Cybersecurity Professional Certificate", the following portfolio projects have been completed.** 
+**As part of "Google Cybersecurity Professional Certificate", following portfolio projects have been completed.** 
   
   **a. Security Audit:** 
        Goal: [Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/rajibgc/Portfolio/files/12883531/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf) | 
