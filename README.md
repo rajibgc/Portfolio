@@ -19,7 +19,7 @@
   
   **a. Security Audit:** 
        Goal: [Botium Toys_ Scope, goals, and risk assessment report.pdf](https://github.com/rajibgc/Portfolio/files/12883531/Botium.Toys_.Scope.goals.and.risk.assessment.report.pdf)
-         |  Output:  [Controls and compliance checklist.pdf](https://github.com/rajibgc/Portfolio/files/12883535/Controls.and.compliance.checklist.pdf)
+       Output:  [Controls and compliance checklist.pdf](https://github.com/rajibgc/Portfolio/files/12883535/Controls.and.compliance.checklist.pdf)
 
   **b. Linux file permissions**
        [File permissions in Linux.pdf](https://github.com/rajibgc/Portfolio/files/12883416/File.permissions.in.Linux.pdf)
