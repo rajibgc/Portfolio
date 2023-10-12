@@ -24,8 +24,9 @@
          https://docs.google.com/document/d/e/2PACX-1vQ1a_TZUjuzF5ApgccACKUdTGJf38DWFfIpcJ92H0_TyRyMPB1K9tq9wiIkFZlN2put2DfnkIF93c_8/pub
   
   **b. Linux file permissions**
-       Output: https://docs.google.com/document/d/1Y-5G2_AOljPkydyK9-OVRv-N6UcXZBKlQsl4CvsOiLw/edit#heading=h.adnh333husy
-       Input: Instructions https://docs.google.com/document/d/17JagcsCJVA30szN-5BfVhXsT6URhOfO9VPwO9bFlWCI/edit?usp=sharing
+       [File permissions in Linux.pdf](https://github.com/rajibgc/Portfolio/files/12883416/File.permissions.in.Linux.pdf)
+
+       
   
   
 </details>
