@@ -23,6 +23,9 @@ From **Google Cybersecurity Professional Certificate**
 
   **b. Linux file permissions**
        [Setting file/directory permissions](https://github.com/rajibgc/Portfolio/files/12883416/File.permissions.in.Linux.pdf)
+  
+  **c. Querying / filtering data with SQL**
+       [Apply filters to SQL queries](https://github.com/rajibgc/Portfolio/files/12896428/Apply.filters.to.SQL.queries.pdf)
 
        
   
